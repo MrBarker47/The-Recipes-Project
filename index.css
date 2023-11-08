@@ -1,0 +1,21 @@
+body {
+margin: 0px;
+padding:  0px;
+}
+
+
+li {
+    list-style: none;
+}
+.line {
+    margin-bottom: 20px;
+}
+
+.header {
+    font-weight: bolder;
+    margin-left: 20px;
+}
+
+.title {
+    
+}
